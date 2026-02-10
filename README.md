@@ -1,6 +1,6 @@
 # Notification Library
 
-This library provides notification services for the Wallet Application. It supports sending notifications via Email and SMS, and stores notification history in a database.
+This library provides notification services for the Application. It supports sending notifications, and stores notification history in a database.
 
 ## Features
 
@@ -15,7 +15,7 @@ This library provides notification services for the Wallet Application. It suppo
 - Spring Context 7.0.1
 - Spring JDBC
 - H2 Database
-- Jakarta Mail (Eclipse Angus) 2.0.3
+- Jakarta Mail 2.0.3
 
 ## Configuration
 
@@ -53,6 +53,7 @@ Provide a brief explanation for each of the following annotations used in the pr
 - `@Service`:
 - `@Repository`:
 - `@Qualifier`:
-- `@Autowired`: (Explain why it's used in constructors)
+- `@Autowired`:
 
 ### 3. Suggestions for Improvement
+Provide suggestions for improving the application.
